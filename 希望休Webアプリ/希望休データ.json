@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "role": "admin",
+      "loginId": "admin",
+      "password": "admin1234",
+      "displayName": "管理者"
+    },
+    {
+      "id": 2,
+      "role": "staff",
+      "loginId": "sato",
+      "password": "1111",
+      "displayName": "佐藤"
+    },
+    {
+      "id": 3,
+      "role": "staff",
+      "loginId": "suzuki",
+      "password": "2222",
+      "displayName": "鈴木"
+    },
+    {
+      "id": 4,
+      "role": "staff",
+      "loginId": "tanaka",
+      "password": "3333",
+      "displayName": "田中"
+    }
+  ],
+  "requests": []
+}
